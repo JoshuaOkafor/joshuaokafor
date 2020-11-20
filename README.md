@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-My Name is Joshua Okafor. I am a Business Data Analyst... i currently spend my weekdays crunching data and automating business processes.
+My Name is Joshua Okafor. I am a Business Data Analyst... 
+I currently spend time crunching business data and automating business processes.
 
 - 🔭 I’m currently working on ... My personal Blog.
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ...Interesting Data Science Problems.
 - 🤔 I’m looking for help with ...Data Science & Machine Learning.
 - 💬 Ask me about ... Power BI, Microsoft Power Platform.
-- 📫 How to reach me: ... [Tweet @ me](https://twitter.com/joshuaokafor_)
+- 📫 How to reach me: ... [Send an Email](mailto:joshuaokafor49@gmail.com)
 - 😄 Pronouns: ... he/him.
-- ⚡ Fun fact about me: i love Fried Plantain.
+- ⚡ Fun fact about me: I don’t have a favorite color. I have two: grey and black.
