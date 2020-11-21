@@ -4,7 +4,7 @@ My Name is Joshua Okafor. I am a Business Data Analyst...
 I currently spend time crunching business data and automating business processes.
 
 - 🔭 I’m currently working on ... My personal Blog.
-- 🌱 I’m currently learning ... Current use cases for machine learning in retail and consumer goods space.
+- 🌱 I’m currently learning ... Current use cases for Machine Learning in Retail and Consumer goods space.
 - 👯 I’m looking to collaborate on ...Interesting Data Science Problems.
 - 🤔 I’m looking for help with ...Data Science & Machine Learning.
 - 💬 Ask me about ... Microsoft Power Platform.
